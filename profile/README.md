@@ -1,12 +1,11 @@
-## Reyki organisation
+# REYKI Organisation
 
-<!--
+Current status of REYKI projects:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| Project | Description | Status |
+| ------- | ------- | ------- |
+| REYKI-Manager | Process Manager with gui | Inwork |
+| REYKI-Debug | Debug tool to work with reyki projects | :x: |
+| REYKI-Todo | Terminal todo-manager 🥶 | :x: |
+| REYKI-Notes | Also todo-manager(and other) but with gui 🥶🥶 | :x: |
+| REYKI-Tools | Don't even know what this is but ok 😈 | :x: |

@@ -5,7 +5,7 @@ Current status of REYKI projects:
 | Project | Description | Status |
 | ------- | ------- | ------- |
 | REYKI-Manager | Process Manager with gui | Inwork |
-| REYKI-Debug | Debug tool to work with reyki projects | :x: |
+| REYKI-Debug | Debug tool to work with reyki projects | Inwork |
 | REYKI-Todo | Terminal todo-manager 🥶 | :x: |
 | REYKI-Editor | Bruh who needs another ~~notepad~~ VeRy CoOlL tExT eDiToR 🥶 | :x: |
 | REYKI-Notes | Also todo-manager(and other) but with gui 🥶🥶 | :x: |

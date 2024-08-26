@@ -1,6 +1,12 @@
 # REYKI Organisation
 
-Current status of REYKI projects:
+**REYKI** or **R**efined **E**nvironment for **Y**ielding **K**ey **I**nformation - is a group of applications designed to help with managing all the different stuff on your pc, for example process manager, computer info etc.
+
+More can be found on [website](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (someday there will be one)
+
+
+
+## Current status of REYKI projects:
 
 | Project | Description | Status |
 | ------- | ------- | ------- |
@@ -12,3 +18,5 @@ Current status of REYKI projects:
 | REYKI-Editor | Notepad with gui, or no🥶 | :x: |
 | REYKI-Cll | Calculator | Inwork |
 | REYKI-Dnn | smth curious | :x: |
+| REYKI-Info| Shows information about your pc(such as cpu/gpu, temps etc.) | :x:|
+

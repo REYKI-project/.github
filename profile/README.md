@@ -19,4 +19,4 @@ More can be found on [website](https://www.youtube.com/watch?v=dQw4w9WgXcQ) (som
 | REYKI-Cll | Calculator | Inwork |
 | REYKI-Dnn | smth curious | :x: |
 | REYKI-Info| Shows information about your pc(such as cpu/gpu, temps etc.) | :x:|
-
+| REYKI-SPACE| Simple social app to communicate with people etc | :x:|
